@@ -1,0 +1,26 @@
+body {
+    margin: 15px 25px 45px 25px;
+    background-image: linear-gradient(orange, yellow);
+    color: green;
+    text-shadow: 1px 1px black;
+    font-family: "Patrick Hand";
+    font-size: 1.8rem;
+
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+hr {
+    color: green;
+}
+#pic1, #pic2, #pic3, #pic4, #pic5 {
+    width: 60%;
+    height: auto;
+    margin: 15px 20% 15px 20%;
+    border: 2px green solid;
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
